@@ -133,7 +133,7 @@ data/
 *.DS_Store
 
 /data/
-/order1_*
+/order*
 
 *.pkl
 *.npy
